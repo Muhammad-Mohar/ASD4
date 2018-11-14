@@ -1,10 +1,10 @@
 # ASD4
-https://github.com/Muhammad-Mohar/ASD4/blob/master/BinarySearch.java
-https://github.com/Muhammad-Mohar/ASD4/blob/master/BubbleSort.java
-https://github.com/Muhammad-Mohar/ASD4/blob/master/InsertionSort.java
-https://github.com/Muhammad-Mohar/ASD4/blob/master/LinearSearch.java
-https://github.com/Muhammad-Mohar/ASD4/blob/master/MergeSort.java
-https://github.com/Muhammad-Mohar/ASD4/blob/master/QuiqSort.java
-https://github.com/Muhammad-Mohar/ASD4/blob/master/SelectionSort.java
-https://github.com/Muhammad-Mohar/ASD4/blob/master/ShellSort.java
-https://github.com/Muhammad-Mohar/ASD4/blob/master/hashTable.java
+1.a. https://github.com/Muhammad-Mohar/ASD4/blob/master/BubbleSort.java
+1.b. https://github.com/Muhammad-Mohar/ASD4/blob/master/InsertionSort.java
+1.c. https://github.com/Muhammad-Mohar/ASD4/blob/master/SelectionSort.java
+1.d. https://github.com/Muhammad-Mohar/ASD4/blob/master/MergeSort.java
+1.e. https://github.com/Muhammad-Mohar/ASD4/blob/master/ShellSort.java
+1.f https://github.com/Muhammad-Mohar/ASD4/blob/master/QuiqSort.java
+1.g https://github.com/Muhammad-Mohar/ASD4/blob/master/LinearSearch.java
+1.h. https://github.com/Muhammad-Mohar/ASD4/blob/master/BinarySearch.java
+1.i. https://github.com/Muhammad-Mohar/ASD4/blob/master/hashTable.java
